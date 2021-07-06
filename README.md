@@ -1,6 +1,6 @@
 # consumindo_api
 
-A new Flutter project.
+API: https://60e46b305bcbca001749e996.mockapi.io/users
 
 ## Getting Started
 
